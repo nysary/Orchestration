@@ -32,4 +32,4 @@
 
 ```bash
 pip install paramiko
-python orchestrator.py
+python main.py
